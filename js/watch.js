@@ -46,6 +46,7 @@ function showProducts(obj) {
 		if (params == product.brand) {
 			let html = `
 		<div class="product" data-id=${i}>
+		<a href="watch-detail.html?id=${i}">
 		<div class="swiper mySwiper">
 			<div class="swiper-wrapper">
 			<div class="swiper-slide"><img src="${imgUrl1}" alt=${name}></div>
@@ -65,7 +66,7 @@ function showProducts(obj) {
 					<p class="sale"><del><span>₩</span>${sale}</del></p>
 				<div>
 			</div>
-	</div>
+	</div></a>
 	`
 			$('.main .container .products').append(html);
 		}
@@ -73,7 +74,7 @@ function showProducts(obj) {
 		// 상품 전체보기
 		if (params == null) {
 			let html = `
-<a href="watch-detail.html">
+<a href="watch-detail.html?id=${i}">
 <div class="product" data-id=${i}>
 	<div class="swiper mySwiper">
 			<div class="swiper-wrapper">

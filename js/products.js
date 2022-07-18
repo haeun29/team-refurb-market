@@ -80,6 +80,7 @@ function showProducts(obj) {
 				<div class="swiper-slide"><img src="${imgUrl1}" alt=${name}></div>
 				<div class="swiper-slide"><img src="${imgUrl2}" alt=${name}></div>
 				<div class="swiper-slide"><img src="${imgUrl3}" alt=${name}></div>
+				<div class="img-cover"></div>
 			</div>
 			<div class="swiper-pagination"></div>
 		</div>
