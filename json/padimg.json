@@ -1,0 +1,164 @@
+[
+  {
+    "image": ["images/stap1.webp", "images/stap2.webp", "images/stap3.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "643,990원",
+    "price": "603,990원"
+  },
+  {
+    "image": ["images/stap3.webp", "images/stap2.webp", "images/stap1.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S7 FE Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "543,740원",
+    "price": "503,740원"
+  },
+  {
+    "image": ["images/stap2.webp", "images/stap1.webp", "images/stap3.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 플러스 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "848,990원",
+    "price": "788,990원"
+  },
+	{
+    "image": ["images/ipad1.webp", "images/ipad2.webp", "images/ipad3.webp"],
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 에어 5세대 Wi-Fi 64GB",
+    "refurb": "S급리퍼",
+    "sale": "687,240원",
+    "price": "637,240원"
+  },
+  {
+    "image": ["images/ipad2.webp", "images/ipad3.webp", "images/ipad1.webp"],
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 프로 11 3세대 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "913,140원",
+    "price": "843,140원"
+  },
+  {
+    "image": ["images/ipad3.webp", "images/ipad1.webp", "images/ipad2.webp"],
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 9세대 WI-Fi 64GB",
+    "refurb": "S급리퍼",
+    "sale": "429,800원",
+    "price": "389,800원"
+  },
+	{
+    "image": ["images/etctap1.webp", "images/etctap2.webp", "images/etctap3.webp"],
+    "brand": "ETC",
+    "product": "ASUS 비보북 13 Slate OLED Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "679,000원",
+    "price": "630,000원"
+  },
+  {
+    "image": ["images/etctap2.webp", "images/etctap3.webp", "images/etctap1.webp"],
+    "brand": "ETC",
+    "product": "Microsoft 서피스 프로7 코어i3 10세대 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "967,390원",
+    "price": "900,390원"
+  },
+  {
+    "image": ["images/etctap3.webp", "images/etctap1.webp", "images/etctap2.webp"],
+    "brand": "ETC",
+    "product": "Microsoft 서피스 프로8 코어i7 11세대 Wi-Fi 256GB",
+    "refurb": "S급리퍼",
+    "sale": "2,016,250원",
+    "price": "1,816,250원"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "503g",
+    "display": "27.9cm(11\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤778G",
+    "ram": "6GB",
+    "ssd": "128GB",
+    "weight": "610g",
+    "display": "31.49cm(12.4\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "567g",
+    "display": "31.49cm(12.4\") SUPER AMOLED",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+	{
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "64GB",
+    "weight": "461g",
+    "display": "10.9인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "466g",
+    "display": "11인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "A13 Bionic",
+    "ram": "3GB",
+    "ssd": "64GB",
+    "weight": "487g",
+    "display": "10.2인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+	{
+    "product": "ETC PAD",
+    "cpu": "인텔펜티엄 실버 N6000",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "780g",
+    "display": "33.02cm(13\") OLED",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i3-10세대 i3-1005G1",
+    "ram": "4GB",
+    "ssd": "128GB",
+    "weight": "775g",
+    "display": "31.24cm(12.3\") TFT-LCD",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i7-11세대 i7-1185G7",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "weight": "889g",
+    "display": "33.02cm(13\") 2880x1920",
+    "os": "윈도우OS",
+    "as": "1년"
+  }
+]

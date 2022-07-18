@@ -1,0 +1,32 @@
+[
+  {
+    "product": "LG NOTEBOOK",
+    "cpu": "셀러론 N4120 (1.1GHz)",
+    "ram": "4GB",
+    "ssd": "128GB",
+    "gpu": "UHD 600",
+    "display": "35.5cm(14인치) TN",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "LG NOTEBOOK",
+    "cpu": "코어i7-11세대 i7-1165G7 (2.8GHz)",
+    "ram": "16GB",
+    "ssd": "M.2(NVMe) 256GB",
+    "gpu": "Iris Xe",
+    "display": "43.1cm(17인치) 2560x1600(WQXGA)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "LG NOTEBOOK",
+    "cpu": "코어i7-11세대 i7-1165G7 (2.8GHz)",
+    "ram": "16GB",
+    "ssd": "M.2(NVMe) 256GB",
+    "gpu": "Iris Xe",
+    "display": "40.6cm(16인치) 2560x1600(WQXGA)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  }
+]

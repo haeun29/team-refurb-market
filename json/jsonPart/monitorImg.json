@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/monitor1.webp",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 오디세이 G5 C27G54T",
+    "refurb": "S급리퍼",
+    "sale": "332,990원",
+    "price": "302,990원"
+  },
+  {
+    "image": "images/monitor2.webp",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 F27T350",
+    "refurb": "S급리퍼",
+    "sale": "199,000원",
+    "price": "169,000원"
+  },
+  {
+    "image": "images/monitor3.webp",
+    "brand": "알파스캔",
+    "product": "알파스캔 AOC 24B2 보더리스 IPS 75 시력보호 무결점",
+    "refurb": "S급리퍼",
+    "sale": "158,980원",
+    "price": "128,980원"
+  }
+]

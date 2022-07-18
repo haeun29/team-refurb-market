@@ -1,0 +1,32 @@
+[
+  {
+    "product": "DESKTOP",
+    "cpu": "i5-12400F (2.5GHz)",
+    "ram": "DDR4 16GB",
+    "ssd": "M.2 500GB",
+    "gpu": "지포스 RTX 3060",
+    "mainboard": "B660",
+    "os": "미포함",
+    "as": "1년"
+  },
+  {
+    "product": "DESKTOP",
+    "cpu": "세잔 5600G",
+    "ram": "DDR4 16GB",
+    "ssd": "240GB",
+    "gpu": "라데온 그래픽스 7",
+    "mainboard": "A520",
+    "os": "미포함",
+    "as": "1년"
+  },
+  {
+    "product": "DESKTOP",
+    "cpu": "i5-12400F (2.5GHz)",
+    "ram": "DDR4 16GB",
+    "ssd": "M.2 500GB",
+    "gpu": "지포스 RTX 3060",
+    "mainboard": "B660",
+    "os": "미포함",
+    "as": "1년"
+  }
+]

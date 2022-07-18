@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>리퍼마켓</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link
+    rel="stylesheet"
+    href="https://unpkg.com/swiper@8/swiper-bundle.min.css"
+    />
+    <!-- 제이쿼리 라이브러리 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body id="home">
+    <header id="main-header">
+        <h1>
+            <a href="index.html"> 
+                <img src="images/home/logo.png" alt="logo">
+            </a>
+        </h1>
+        <nav id="icon-menu">
+            <a href="login.html"><i class="bi bi-person"></i></a>
+            <a href="cart.html"><i class="bi bi-cart2"></i></a>
+            <button class="toggle-btn"><i class="bi bi-list"></i></a>
+        </nav>
+    </header>
+    <main>
+        <div class="j_main-banner swiper">
+                <!-- 필수/추가 UI구성요소 -->
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="products.html">
+                        <img src="images/home/main-banner1.png" alt="event-banner">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="products.html">
+                        <img src="images/home/main-banner2.png" alt="main-banner2">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="products.html">
+                        <img src="images/home/main-banner3.png" alt="main-banner3">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="products.html">
+                        <img src="images/home/main-banner4.png" alt="main-banner4">
+                    </a>
+                </div>
+
+                <!-- 계속 추가 가능 -->
+            </div>
+            <!-- 하단 pager(옵션) -->
+            <div class="swiper-pagination"></div>
+        </div><!--j_main-banner-->
+        
+        <div class="j_category-menu">
+            <ul>
+                <li>
+                    <a href="products.html">
+                        <div class="j_col">
+                            <img src="images/home/laptop.png" alt="노트북">
+                        </div>
+                        노트북
+                    </a>
+                </li>
+                <li>
+                    <a href="pc.html">
+                        <div class="j_col">
+                            <img src="images/home/pc.png" alt="pc">
+                        </div>
+                        PC
+                    </a>
+                </li>
+                <li>
+                    <a href="pad.html">
+                        <div class="j_col">
+                            <img src="images/home/tablet.png" alt="태블릿">
+                        </div>
+                        태블릿PC<br>패드
+                    </a>
+                </li>
+                <li>
+                    <a href="watch.html">
+                        <div class="j_col">
+                            <img src="images/home/wearables.png" alt="웨어러블">
+                        </div>
+                        웨어러블
+                    </a>
+                </li>
+            </ul>
+        </div> <!--j_category-menu--> 
+        <div class="j_recommand">
+            <h2>고객님을 <strong>위한 추천</strong></h2>
+                <div class="j_rcontainer">
+                    <div class="j_col">
+                        <a href="products.html" class="bg-gn">
+                            <img src="images/home/samsung-laptop.jpg" alt="삼성노트북펜시리즈">
+                            <div class="j_text">
+                                <h4 class="green">삼성</h4>
+                                <p>삼성 노트북 펜 시리즈</p>
+                                <p class="green">450,000원 부터~</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="j_col">
+                        <a href="watch.html" class="bg-bl">
+                            <img src="images/home/apple-watch2X.png" alt="내손목위애플워치">
+                            <div class="j_text">
+                                <h4 class="blue">애플</h4>
+                                <p>내 손목 위 애플워치</p>
+                                <p class="blue">189,000원 부터~</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="j_col">
+                        <a href="pc.html" class="bg-yel">
+                            <img src="images/home/gaming-pc.jpg" alt="울트라게이밍모니터">
+                            <div class="j_text">
+                                <h4 class="yellow">엘지</h4>
+                                <p>울트라 게이밍 모니터</p>
+                                <p class="yellow">259,000원 부터 ~</p>
+                            </div>  
+                        </a>
+                    </div>
+                </div>
+                    
+                
+            
+        </div> <!--j_recommand--> 
+        <div class="j_post-banner">
+            <a href="#">
+                <img src="images/home/post-banner2x.png" alt="배송안내">
+            </a>
+        </div> 
+        <div class="j_dailySale">
+            <div class="j_sale-title">
+                <h2><strong>일일</strong>특가&nbsp;&nbsp;&nbsp;<span>망설이면 늦어요!</span></h2>
+            </div>
+            <div class="j_sale-banner">
+                <a href="products.html">
+                    <img src="images/home/dailysale-banner.png" alt="일일특가">
+                    
+                </a>
+                <h4>삼성</h4>
+                <div class="sale-title">
+                    <p>오디세이 게이밍 모니터 68.6 cm</p>
+                    <p>
+                        <span><del>&#8361;799,000</del></span>
+                        <strong>&#8361;499,000</strong>
+                    </p>
+                </div>
+            </div>
+        </div><!--j_dailySale-->
+        <div class="j_call-banner">
+            <a href='tel:1599-5372' >
+                <img src="images/home/call-banner2x.png" alt="고객센터">
+            </a>
+        </div>
+    </main>
+
+    <footer id="main-footer">
+        <nav class="sns-menu">
+            <a href="#">
+                <i class="bi bi-facebook"></i>
+            </a>
+            <a href="#">
+                <i class="bi bi-instagram"></i>
+            </a>
+            <a href="#">
+                <i class="ri-kakao-talk-fill"></i>
+            </a>
+            <a href="#">
+                <i class="ri-google-play-fill"></i>
+            </a>
+            <a href="#">
+                <i class="ri-app-store-line"></i>
+            </a>
+        </nav>
+        <nav class="footer-menu">
+            <a href="#">개인정보 처리방침</a> <span>|</span>
+            <a href="#">웹 사이트 이용약관</a> <span>|</span>
+            <a href="#">판매 및 환불</a>
+        </nav>
+        <p>
+            사업자등록번호 : 117-81-62550 | 통신판매업신고 : 제2018-서울송파-1623호 | <br>
+            대표이사 : 이정진, 김준 | <br>
+            주소 : 서울시 송파구 법원로 11길 11 9층 905~908호 | <br>
+            대표전화 : 1599-5372 | 팩스 :  02) 6941-097
+        </p>
+        <p class="copy">COPYRIGHT 2007 AJ junsymall Corp. All RIGHTS RESERVED</p>
+    </footer>
+
+    <!-- 메인 배너(기타 라이브러리) -->
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+    <!-- 사용자 자바스크립트 -->
+    <script src="./js/app.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>

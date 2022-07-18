@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/swatch1.png",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시 워치4 40mm 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "172,470원",
+    "price": "142,470원"
+  },
+  {
+    "image": "images/swatch2.png",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시 워치4 클래식 46mm 스테인리스 스틸",
+    "refurb": "S급리퍼",
+    "sale": "273,480원",
+    "price": "223,480원"
+  },
+  {
+    "image": "images/swatch3.png",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시 워치4 40mm 골프 에디션 GPS 골프거리측정기",
+    "refurb": "A급리퍼",
+    "sale": "223,010원",
+    "price": "183,010원"
+  }
+]

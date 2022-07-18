@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/mouse1.webp",
+    "brand": "LOGITEC",
+    "product": "로지텍 G102 LIGHTSYNC",
+    "refurb": "A급리퍼",
+    "sale": "23,970원",
+    "price": "18,970원"
+  },
+  {
+    "image": "images/mouse2.webp",
+    "brand": "LOGITEC",
+    "product": "로지텍 G304 LIGHTSPEED WIRELESS",
+    "refurb": "S급리퍼",
+    "sale": "49,900원",
+    "price": "39,900원"
+  },
+  {
+    "image": "images/mouse3.webp",
+    "brand": "LOGITEC",
+    "product": "로지텍 MX Master 3S",
+    "refurb": "S급리퍼",
+    "sale": "139,000원",
+    "price": "119,000원"
+  }
+]

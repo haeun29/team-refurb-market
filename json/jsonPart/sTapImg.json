@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/stap1.webp",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "643,990원",
+    "price": "603,990원"
+  },
+  {
+    "image": "images/stap2.webp",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S7 FE Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "543,740원",
+    "price": "503,740원"
+  },
+  {
+    "image": "images/stap3.webp",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 플러스 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "848,990원",
+    "price": "788,990원"
+  }
+]

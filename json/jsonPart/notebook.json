@@ -1,0 +1,92 @@
+[
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-8세대 i5-8265U",
+    "ram": "8GB",
+    "ssd": "M.2(NVMe) 256GB",
+    "gpu": "UHD 620",
+    "display": "33.78cm(13.3인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-9세대 i5-9400H (2.5GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "UHD 630",
+    "display": "39.6cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-6세대 i5-6200U (2.3GHz)",
+    "ram": "8GB",
+    "ssd": "240GB",
+    "gpu": "HD 520",
+    "display": "38.1cm(15인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+	{
+    "product": "MACBOOK",
+    "cpu": "코어i5-8세대 i5-8257U (1.4GHz)",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "Iris Plus 645",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "애플 M1",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1 PRO",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "애플 M1 PRO",
+    "display": "41.05cm(16.2인치) 3456x2234",
+    "os": "MACOS",
+    "as": "1년"
+  },
+	{
+    "product": "ETC",
+    "cpu": "코어i5-12세대 i5-1240P (1.7GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "35.56cm(14인치) OLED",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1135G7 (2.4GHz)",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1155G7 (2.5GHz)",
+    "ram": "8GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) / 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  }
+]

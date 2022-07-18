@@ -1,0 +1,110 @@
+[
+  {
+    "image": ["images/stap1.webp", "images/stap2.webp", "images/stap3.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "643,990원",
+    "price": "603,990원"
+  },
+  {
+    "image": ["images/stap2.webp", "images/stap3.webp", "images/stap1.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S7 FE Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "543,740원",
+    "price": "503,740원"
+  },
+  {
+    "image": ["images/stap3.webp", "images/stap1.webp", "images/stap2.webp"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 갤럭시탭S8 플러스 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "848,990원",
+    "price": "788,990원"
+  },
+  {
+    "image": ["images/awatch1.png", "images/awatch2.png", "images/awatch3.png"],
+    "brand": "APPLE",
+    "product": "APPLE 워치 SE 나이키+ 44mm 스페이스 그레이 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "375,360원",
+    "price": "335,360원"
+  },
+  {
+    "image": ["images/awatch2.png", "images/awatch3.png", "images/awatch1.png"],
+    "brand": "APPLE",
+    "product": "APPLE 워치 SE 40mm 스페이스 그레이 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "322,040원",
+    "price": "282,040원"
+  },
+  {
+    "image": ["images/awatch3.png", "images/awatch1.png", "images/awatch2.png"],
+    "brand": "APPLE",
+    "product": "APPLE 워치 시리즈7 45mm 미드나이트 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "479,740원",
+    "price": "449,740원"
+  },
+  {
+    "product": "GALAXY WATCH",
+    "cpu": "Dual-Core",
+    "ram": "1.5 GB",
+    "ssd": "7.6 GB",
+    "weight": "30.3 g",
+    "display": "34.6 mm",
+    "os": "Wear os Powered by Samsung",
+    "as": "6개월"
+  },
+  {
+    "product": "GALAXY WATCH",
+    "cpu": "Dual-Core",
+    "ram": "1.5 GB",
+    "ssd": "7.6 GB",
+    "weight": "30.3 g",
+    "display": "34.6 mm",
+    "os": "Wear os Powered by Samsung",
+    "as": "6개월"
+  },
+  {
+    "product": "GALAXY WATCH",
+    "cpu": "Dual-Core",
+    "ram": "1.5 GB",
+    "ssd": "7.6 GB",
+    "weight": "30.3 g",
+    "display": "34.6 mm",
+    "os": "Wear os Powered by Samsung",
+    "as": "6개월"
+  },
+	{
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "30.49g",
+    "display": "3.98cm(1.57인치)",
+    "os": "iOS(WatchOS)",
+    "as": "6개월"
+  },
+  {
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "36.2g",
+    "display": "4.4cm(1.73인치)",
+    "os": "iOS(WatchOS)",
+    "as": "6개월"
+  },
+  {
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "32g",
+    "display": "4.3cm(1.69인치)",
+    "os": "iOS(WatchOS)",
+    "as": "1년"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "64GB",
+    "weight": "461g",
+    "display": "10.9인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "466g",
+    "display": "11인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "A13 Bionic",
+    "ram": "3GB",
+    "ssd": "64GB",
+    "weight": "487g",
+    "display": "10.2인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  }
+]

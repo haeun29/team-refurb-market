@@ -1,0 +1,32 @@
+[
+  {
+    "product": "MOUSE",
+    "connect": "유선",
+    "dpi": "8000",
+    "softwear": "O",
+    "rgb": "O",
+    "weight": "85g",
+    "cable": "2M",
+    "as": "1년"
+  },
+  {
+    "product": "MOUSE",
+    "connect": "무선",
+    "dpi": "12000",
+    "software": "O",
+    "rgb": "O",
+    "weight": "99g",
+    "cable": "X",
+    "as": "1년"
+  },
+  {
+    "product": "MOUSE",
+    "connect": "무선",
+    "dpi": "8000",
+    "software": "O",
+    "rgb": "X",
+    "weight": "141g",
+    "cable": "X",
+    "as": "1년"
+  }
+]

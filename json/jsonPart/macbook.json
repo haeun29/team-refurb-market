@@ -1,0 +1,32 @@
+[
+  {
+    "product": "MACBOOK",
+    "cpu": "코어i5-8세대 i5-8257U (1.4GHz)",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "Iris Plus 645",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "애플 M1",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1 PRO",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "애플 M1 PRO",
+    "display": "41.05cm(16.2인치) 3456x2234",
+    "os": "MACOS",
+    "as": "1년"
+  }
+]

@@ -1,0 +1,53 @@
+[{
+	"image": ["images/desktop1.webp", "images/desktop2.webp", "images/desktop3.webp"],
+	"brand": "DESKTOP",
+	"product": "표준PC 게임용 220616",
+	"refurb": "S급리퍼",
+	"sale": "1,153,120원",
+	"price": "1,053,120원"
+},
+{
+	"image": ["images/desktop2.webp", "images/desktop3.webp", "images/desktop1.webp"],
+	"brand": "DESKTOP",
+	"product": "표준PC 게임용 211009",
+	"refurb": "S급리퍼",
+	"sale": "482,120원",
+	"price": "432,120원"
+},
+{
+	"image": ["images/desktop3.webp", "images/desktop1.webp", "images/desktop2.webp"],
+	"brand": "DESKTOP",
+	"product": "게이밍 SHOP 19",
+	"refurb": "A급리퍼",
+	"sale": "1,118,500원",
+	"price": "1,038,500원"
+},{
+	"product": "DESKTOP",
+	"cpu": "i5-12400F (2.5GHz)",
+	"ram": "DDR4 16GB",
+	"ssd": "M.2 500GB",
+	"gpu": "지포스 RTX 3060",
+	"mainboard": "B660",
+	"os": "미포함",
+	"as": "1년"
+},
+{
+	"product": "DESKTOP",
+	"cpu": "세잔 5600G",
+	"ram": "DDR4 16GB",
+	"ssd": "240GB",
+	"gpu": "라데온 그래픽스 7",
+	"mainboard": "A520",
+	"os": "미포함",
+	"as": "1년"
+},
+{
+	"product": "DESKTOP",
+	"cpu": "i5-12400F (2.5GHz)",
+	"ram": "DDR4 16GB",
+	"ssd": "M.2 500GB",
+	"gpu": "지포스 RTX 3060",
+	"mainboard": "B660",
+	"os": "미포함",
+	"as": "1년"
+}]

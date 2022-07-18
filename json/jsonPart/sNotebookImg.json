@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/samsung1.jpg",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 2019 노트북 Pen S NT930SBE-K58",
+    "refurb": "S급리퍼",
+    "sale": "1,700,000원",
+    "price": "1,400,000원"
+  },
+  {
+    "image": "images/samsung2.jpg",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 노트북7 프로 NT751BBC",
+    "refurb": "S급리퍼",
+    "sale": "859,000원",
+    "price": "759,000원"
+  },
+  {
+    "image": "images/samsung3.jpg",
+    "brand": "SAMSUNG",
+    "product": "삼성전자 노트북9 metal NT901X5H",
+    "refurb": "S급리퍼",
+    "sale": "439,450원",
+    "price": "389,450원"
+  }
+]

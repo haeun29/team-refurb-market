@@ -1,0 +1,32 @@
+[
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔펜티엄 실버 N6000",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "780g",
+    "display": "33.02cm(13\") OLED",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i3-10세대 i3-1005G1",
+    "ram": "4GB",
+    "ssd": "128GB",
+    "weight": "775g",
+    "display": "31.24cm(12.3\") TFT-LCD",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i7-11세대 i7-1185G7",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "weight": "889g",
+    "display": "33.02cm(13\") 2880x1920",
+    "os": "윈도우OS",
+    "as": "1년"
+  }
+]

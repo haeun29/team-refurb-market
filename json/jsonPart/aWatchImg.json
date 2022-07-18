@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/awatch1.png",
+    "brand": "APPLE",
+    "product": "APPLE 워치 SE 나이키+ 44mm 스페이스 그레이 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "375,360원",
+    "price": "335,360원"
+  },
+  {
+    "image": "images/awatch2.png",
+    "brand": "APPLE",
+    "product": "APPLE 워치 SE 40mm 스페이스 그레이 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "322,040원",
+    "price": "282,040원"
+  },
+  {
+    "image": "images/awatch3.png",
+    "brand": "APPLE",
+    "product": "APPLE 워치 시리즈7 45mm 미드나이트 알루미늄",
+    "refurb": "S급리퍼",
+    "sale": "479,740원",
+    "price": "449,740원"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/macbook1.jpg",
+    "brand": "APPLE",
+    "product": "APPLE 2020 맥북프로13 MXK32KH/A",
+    "refurb": "A급리퍼",
+    "sale": "2,390,000원",
+    "price": "1,890,000원"
+  },
+  {
+    "image": "images/macbook2.jpg",
+    "brand": "APPLE",
+    "product": "APPLE 2020 맥북에어 MGN93KH/A",
+    "refurb": "S급리퍼",
+    "sale": "1,199,980원",
+    "price": "899,980원"
+  },
+  {
+    "image": "images/macbook3.jpg",
+    "brand": "APPLE",
+    "product": "APPLE 2021 맥북프로16 MK1E3KH/A",
+    "refurb": "S급리퍼",
+    "sale": "3,046,990원",
+    "price": "2,846,990원"
+  }
+]

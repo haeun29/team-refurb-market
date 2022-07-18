@@ -1,0 +1,164 @@
+[
+  {
+    "image": ["images/samsung1.png", "images/samsung2.png", "images/samsung3.png"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 2019 노트북 Pen S NT930SBE-K58",
+    "refurb": "S급리퍼",
+    "sale": "1,700,000원",
+    "price": "1,400,000원"
+  },
+  {
+    "image": ["images/samsung2.png", "images/samsung1.png", "images/samsung3.png"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 노트북7 프로 NT751BBC",
+    "refurb": "S급리퍼",
+    "sale": "859,000원",
+    "price": "759,000원"
+  },
+  {
+    "image": ["images/samsung3.png", "images/samsung2.png", "images/samsung1.png"],
+    "brand": "SAMSUNG",
+    "product": "삼성전자 노트북9 metal NT901X5H",
+    "refurb": "S급리퍼",
+    "sale": "439,450원",
+    "price": "389,450원"
+  },
+	{
+    "image": ["images/macbook1.jpg", "images/macbook2.jpg", "images/macbook3.jpg"],
+    "brand": "APPLE",
+    "product": "APPLE 2020 맥북프로13 MXK32KH/A",
+    "refurb": "A급리퍼",
+    "sale": "2,390,000원",
+    "price": "1,890,000원"
+  },
+  {
+    "image": ["images/macbook2.jpg", "images/macbook1.jpg", "images/macbook3.jpg"],
+    "brand": "APPLE",
+    "product": "APPLE 2020 맥북에어 MGN93KH/A",
+    "refurb": "S급리퍼",
+    "sale": "1,199,980원",
+    "price": "899,980원"
+  },
+  {
+    "image": ["images/macbook3.jpg", "images/macbook2.jpg", "images/macbook1.jpg"],
+    "brand": "APPLE",
+    "product": "APPLE 2021 맥북프로16 MK1E3KH/A",
+    "refurb": "S급리퍼",
+    "sale": "3,046,990원",
+    "price": "2,846,990원"
+  },
+	{
+    "image": ["images/lg1.png", "images/lg2.png", "images/lg3.png"],
+    "brand": "LG",
+    "product": "LG전자 2021 울트라PC 14U30P-E316K",
+    "refurb": "S급리퍼",
+    "sale": "360,730원",
+    "price": "330,730원"
+  },
+  {
+    "image": ["images/lg2.png", "images/lg1.png", "images/lg3.png"],
+    "brand": "LG",
+    "product": "LG전자 2021 그램17 17ZD90P-GX76K",
+    "refurb": "S급리퍼",
+    "sale": "1,418,990원",
+    "price": "1,218,990원"
+  },
+  {
+    "image": ["images/lg3.png", "images/lg2.png", "images/lg1.png"],
+    "brand": "LG",
+    "product": "LG전자 그램360 16T90P-GA7DK",
+    "refurb": "S급리퍼",
+    "sale": "1,649,430원",
+    "price": "1,349,430원"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-8세대 i5-8265U",
+    "ram": "8GB",
+    "ssd": "M.2(NVMe) 256GB",
+    "gpu": "UHD 620",
+    "display": "33.78cm(13.3인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-9세대 i5-9400H (2.5GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "UHD 630",
+    "display": "39.6cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-6세대 i5-6200U (2.3GHz)",
+    "ram": "8GB",
+    "ssd": "240GB",
+    "gpu": "HD 520",
+    "display": "38.1cm(15인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+	{
+    "product": "MACBOOK",
+    "cpu": "코어i5-8세대 i5-8257U (1.4GHz)",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "Iris Plus 645",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gpu": "애플 M1",
+    "display": "33.78cm(13.3인치) 2560x1600(WQXGA)",
+    "os": "MACOS",
+    "as": "1년"
+  },
+  {
+    "product": "MACBOOK",
+    "cpu": "애플 M1 PRO",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "애플 M1 PRO",
+    "display": "41.05cm(16.2인치) 3456x2234",
+    "os": "MACOS",
+    "as": "1년"
+  },
+	{
+    "product": "ETC",
+    "cpu": "코어i5-12세대 i5-1240P (1.7GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "35.56cm(14인치) OLED",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1135G7 (2.4GHz)",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1155G7 (2.5GHz)",
+    "ram": "8GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) / 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  }
+]

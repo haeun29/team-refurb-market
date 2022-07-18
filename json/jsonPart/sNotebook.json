@@ -1,0 +1,32 @@
+[
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-8세대 i5-8265U",
+    "ram": "8GB",
+    "ssd": "M.2(NVMe) 256GB",
+    "gpu": "UHD 620",
+    "display": "33.78cm(13.3인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-9세대 i5-9400H (2.5GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "UHD 630",
+    "display": "39.6cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "SAMSUNG",
+    "cpu": "코어i5-6세대 i5-6200U (2.3GHz)",
+    "ram": "8GB",
+    "ssd": "240GB",
+    "gpu": "HD 520",
+    "display": "38.1cm(15인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  }
+]

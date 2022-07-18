@@ -1,0 +1,32 @@
+[
+  {
+    "product": "MONITOR",
+    "size": "68.4cm(27인치)",
+    "screen": "와이드(16:9)",
+    "panel": "VA",
+    "display": "2560 x 1440(QHD)",
+    "fps": "144Hz",
+    "bluelight": "O",
+    "as": "1년"
+  },
+  {
+    "product": "MONITOR",
+    "size": "68.6cm(27인치)",
+    "screen": "와이드(16:9)",
+    "panel": "IPS",
+    "display": "1920 x 1080(FHD)",
+    "fps": "75Hz",
+    "bluelight": "O",
+    "as": "1년"
+  },
+  {
+    "product": "MONITOR",
+    "size": "60.5cm(24인치)",
+    "screen": "와이드(16:9)",
+    "panel": "IPS",
+    "display": "1920 x 1080(FHD)",
+    "fps": "75Hz",
+    "bluelight": "O",
+    "as": "1년"
+  }
+]

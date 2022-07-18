@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/lg1.jpg",
+    "brand": "LG",
+    "product": "LG전자 2021 울트라PC 14U30P-E316K",
+    "refurb": "S급리퍼",
+    "sale": "360,730원",
+    "price": "330,730원"
+  },
+  {
+    "image": "images/lg2.jpg",
+    "brand": "LG",
+    "product": "LG전자 2021 그램17 17ZD90P-GX76K",
+    "refurb": "S급리퍼",
+    "sale": "1,418,990원",
+    "price": "1,218,990원"
+  },
+  {
+    "image": "images/lg3.jpg",
+    "brand": "LG",
+    "product": "LG전자 그램360 16T90P-GA7DK",
+    "refurb": "S급리퍼",
+    "sale": "1,649,430원",
+    "price": "1,349,430원"
+  }
+]

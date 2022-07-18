@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/ipad1.webp",
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 에어 5세대 Wi-Fi 64GB",
+    "refurb": "S급리퍼",
+    "sale": "687,240원",
+    "price": "637,240원"
+  },
+  {
+    "image": "images/ipad2.webp",
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 프로 11 3세대 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "913,140원",
+    "price": "843,140원"
+  },
+  {
+    "image": "images/ipad3.webp",
+    "brand": "APPLE",
+    "product": "APPLE 아이패드 9세대 WI-Fi 64GB",
+    "refurb": "S급리퍼",
+    "sale": "429,800원",
+    "price": "389,800원"
+  }
+]

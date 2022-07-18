@@ -1,0 +1,32 @@
+[
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "503g",
+    "display": "27.9cm(11\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤778G",
+    "ram": "6GB",
+    "ssd": "128GB",
+    "weight": "610g",
+    "display": "31.49cm(12.4\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "567g",
+    "display": "31.49cm(12.4\") SUPER AMOLED",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  }
+]

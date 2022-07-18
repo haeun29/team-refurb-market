@@ -1,0 +1,32 @@
+[
+  {
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "30.49g",
+    "display": "3.98cm(1.57인치)",
+    "os": "iOS(WatchOS)",
+    "as": "6개월"
+  },
+  {
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "36.2g",
+    "display": "4.4cm(1.73인치)",
+    "os": "iOS(WatchOS)",
+    "as": "6개월"
+  },
+  {
+    "product": "APPLE WATCH",
+    "cpu": "애플S5",
+    "ram": "1GB",
+    "ssd": "32GB",
+    "weight": "32g",
+    "display": "4.3cm(1.69인치)",
+    "os": "iOS(WatchOS)",
+    "as": "1년"
+  }
+]

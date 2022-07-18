@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/etc1.jpg",
+    "brand": "ETC",
+    "product": "ASUS 젠북 14 OLED UX3402ZA-KM053",
+    "refurb": "S급리퍼",
+    "sale": "1,250,000원",
+    "price": "1,180,000원"
+  },
+  {
+    "image": "images/etc2.jpg",
+    "brand": "ETC",
+    "product": "레노버 아이디어패드 Slim3-15ITL 5D",
+    "refurb": "A급리퍼",
+    "sale": "616,230원",
+    "price": "556,230원"
+  },
+  {
+    "image": "images/etc3.jpg",
+    "brand": "ETC",
+    "product": "MSI 모던시리즈 모던15 A11M-i5 카본 그레이",
+    "refurb": "A급리퍼",
+    "sale": "598,990원",
+    "price": "548,990원"
+  }
+]

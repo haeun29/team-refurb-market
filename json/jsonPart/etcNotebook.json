@@ -1,0 +1,32 @@
+[
+  {
+    "product": "ETC",
+    "cpu": "코어i5-12세대 i5-1240P (1.7GHz)",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "35.56cm(14인치) OLED",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1135G7 (2.4GHz)",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC",
+    "cpu": "코어i5-11세대 i5-1155G7 (2.5GHz)",
+    "ram": "8GB",
+    "ssd": "512GB",
+    "gpu": "Iris Xe",
+    "display": "39.62cm(15.6인치) / 1920x1080(FHD)",
+    "os": "윈도우 OS",
+    "as": "1년"
+  }
+]

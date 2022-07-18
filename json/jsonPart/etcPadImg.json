@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/etctap1.webp",
+    "brand": "ETC",
+    "product": "ASUS 비보북 13 Slate OLED Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "679,000원",
+    "price": "630,000원"
+  },
+  {
+    "image": "images/etctap2.webp",
+    "brand": "ETC",
+    "product": "Microsoft 서피스 프로7 코어i3 10세대 Wi-Fi 128GB",
+    "refurb": "S급리퍼",
+    "sale": "967,390원",
+    "price": "900,390원"
+  },
+  {
+    "image": "images/etctap3.webp",
+    "brand": "ETC",
+    "product": "Microsoft 서피스 프로8 코어i7 11세대 Wi-Fi 256GB",
+    "refurb": "S급리퍼",
+    "sale": "2,016,250원",
+    "price": "1,816,250원"
+  }
+]

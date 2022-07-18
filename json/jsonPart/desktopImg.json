@@ -1,0 +1,26 @@
+[
+  {
+    "image": "images/desktop1.webp",
+    "brand": "DESKTOP",
+    "product": "표준PC 게임용 220616",
+    "refurb": "S급리퍼",
+    "sale": "1,153,120원",
+    "price": "1,053,120원"
+  },
+  {
+    "image": "images/desktop2.webp",
+    "brand": "DESKTOP",
+    "product": "표준PC 게임용 211009",
+    "refurb": "S급리퍼",
+    "sale": "482,120원",
+    "price": "432,120원"
+  },
+  {
+    "image": "images/desktop3.webp",
+    "brand": "DESKTOP",
+    "product": "게이밍 SHOP 19",
+    "refurb": "A급리퍼",
+    "sale": "1,118,500원",
+    "price": "1,038,500원"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "503g",
+    "display": "27.9cm(11\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤778G",
+    "ram": "6GB",
+    "ssd": "128GB",
+    "weight": "610g",
+    "display": "31.49cm(12.4\") TFT-LCD",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+  {
+    "product": "GALAXY TAP",
+    "cpu": "스냅드래곤8 Gen1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "567g",
+    "display": "31.49cm(12.4\") SUPER AMOLED",
+    "os": "안드로이드 OS",
+    "as": "1년"
+  },
+	{
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "64GB",
+    "weight": "461g",
+    "display": "10.9인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "466g",
+    "display": "11인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+  {
+    "product": "IPAD",
+    "cpu": "A13 Bionic",
+    "ram": "3GB",
+    "ssd": "64GB",
+    "weight": "487g",
+    "display": "10.2인치IPS-LCD",
+    "os": "iPadOS",
+    "as": "1년"
+  },
+	{
+    "product": "ETC PAD",
+    "cpu": "인텔펜티엄 실버 N6000",
+    "ram": "8GB",
+    "ssd": "128GB",
+    "weight": "780g",
+    "display": "33.02cm(13\") OLED",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i3-10세대 i3-1005G1",
+    "ram": "4GB",
+    "ssd": "128GB",
+    "weight": "775g",
+    "display": "31.24cm(12.3\") TFT-LCD",
+    "os": "윈도우OS",
+    "as": "1년"
+  },
+  {
+    "product": "ETC PAD",
+    "cpu": "인텔코어i7-11세대 i7-1185G7",
+    "ram": "16GB",
+    "ssd": "256GB",
+    "weight": "889g",
+    "display": "33.02cm(13\") 2880x1920",
+    "os": "윈도우OS",
+    "as": "1년"
+  }
+]

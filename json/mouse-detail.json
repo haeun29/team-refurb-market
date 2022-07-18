@@ -1,0 +1,56 @@
+[
+	{
+	"image": ["images/mouse1.webp", "images/mouse2.webp", "images/mouse3.webp"],
+	"brand": "LOGITEC",
+	"product": "로지텍 G102 LIGHTSYNC",
+	"refurb": "A급리퍼",
+	"sale": "23,970원",
+	"price": "18,970원"
+},
+{
+	"image": ["images/mouse2.webp", "images/mouse3.webp", "images/mouse1.webp"],
+	"brand": "LOGITEC",
+	"product": "로지텍 G304 LIGHTSPEED WIRELESS",
+	"refurb": "S급리퍼",
+	"sale": "49,900원",
+	"price": "39,900원"
+},
+{
+	"image": ["images/mouse3.webp", "images/mouse1.webp", "images/mouse2.webp"],
+	"brand": "LOGITEC",
+	"product": "로지텍 MX Master 3S",
+	"refurb": "S급리퍼",
+	"sale": "139,000원",
+	"price": "119,000원"
+}
+,{
+	"product": "MOUSE",
+	"connect": "유선",
+	"dpi": "8000",
+	"softwear": "O",
+	"rgb": "O",
+	"weight": "85g",
+	"cable": "2M",
+	"as": "1년"
+},
+{
+	"product": "MOUSE",
+	"connect": "무선",
+	"dpi": "12000",
+	"software": "O",
+	"rgb": "O",
+	"weight": "99g",
+	"cable": "X",
+	"as": "1년"
+},
+{
+	"product": "MOUSE",
+	"connect": "무선",
+	"dpi": "8000",
+	"software": "O",
+	"rgb": "X",
+	"weight": "141g",
+	"cable": "X",
+	"as": "1년"
+}
+]
