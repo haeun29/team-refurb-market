@@ -1,7 +1,7 @@
 // 제품 데이터 가져오기
 function getData() {
 	// 여기에 여러분 깃허브 JSON 파일 경로(서버 데이터 주소)
-	const DataURL = 'https://raw.githubusercontent.com/haeun29/team-refurb-market/main/json/padimg.json'
+	const DataURL = 'https://raw.githubusercontent.com/jun-isaac/refurb-market/main/json/padimg.json'
 	fetch(DataURL)
 		.then(function (res) {
 			return res.json(); // JSON 객체 변환
@@ -46,25 +46,27 @@ function showProducts(obj) {
 		if (params == product.brand) {
 			let html = `
 		<div class="product" data-id=${i}>
-		<div class="swiper mySwiper">
-			<div class="swiper-wrapper">
-			<div class="swiper-slide"><img src="${imgUrl1}" alt=${name}></div>
-			<div class="swiper-slide"><img src="${imgUrl2}" alt=${name}></div>
-			<div class="swiper-slide"><img src="${imgUrl3}" alt=${name}></div>
+				<div class="swiper mySwiper">
+					<div class="swiper-wrapper">
+					<div class="swiper-slide"><img src="${imgUrl1}" alt=${name}></div>
+					<div class="swiper-slide"><img src="${imgUrl2}" alt=${name}></div>
+					<div class="swiper-slide"><img src="${imgUrl3}" alt=${name}></div>
+				</div>
+				<div class="swiper-pagination"></div>
 		</div>
-	<div class="swiper-pagination"></div>
-</div>
-			<div class="info">
+		
+		<div class="info">
 			<div class="product-name">
 					<span class="category">${category}</span>
-					<span class="refurb">${refurb}</span>
-				</div>
-				<p class="title">${name}</p>
-				<div class="all-price">
-					<p class="price"><span>₩</span>${price}</p>
-					<p class="sale"><del><span>₩</span>${sale}</del></p>
-				<div>
 			</div>
+
+			<p class="title">${name}</p>
+
+			<div class="all-price">
+				<p class="price"><span>₩</span>${price}</p>
+				<p class="sale"><del><span>₩</span>${sale}</del></p>
+			<div>
+		</div>
 	</div>
 	`
 			$('.main .container .products').append(html);
@@ -86,7 +88,6 @@ function showProducts(obj) {
 			<div class="info">
 				<div class="product-name">
 					<span class="category">${category}</span>
-					<span class="refurb">${refurb}</span>
 				</div>
 				<p class="title">${name}</p>
 				<p class="price"><span>₩</span>${price}</p>
