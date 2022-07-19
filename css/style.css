@@ -10,10 +10,10 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 
 :root {
-    --main-color:#19AD09;
-    --sub-color: #16E200 ;
-    --text-color: #000000 ;
-    --bg-color: #ffffff ;
+    --main-color: #19AD09;
+    --sub-color: #16E200;
+    --text-color: #000000;
+    --bg-color: #ffffff;
     --header-height: 60px;
 }
 
@@ -41,26 +41,30 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
 #main-header h1 a img {
     width: 139px;
     height: 30px;
     display: flex;
     align-items: center;
 }
+
 #icon-menu .bi {
     font-size: 20px;
     color: #000000;
 }
+
 #icon-menu a {
     margin-left: 1em;
 }
+
 #icon-menu button {
-  border-style: none;
-  background-color: transparent;
-  /* outline: 1px solid red; */
-  width: 30px;
-  height: 30px;
-  margin-left: 0.3em;
+    border-style: none;
+    background-color: transparent;
+    /* outline: 1px solid red; */
+    width: 30px;
+    height: 30px;
+    margin-left: 0.3em;
 }
 
 
@@ -76,10 +80,11 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
-    justify-content: center;        
+    justify-content: center;
 }
+
 #gnb ul li {
-    width:100%;
+    width: 100%;
 
     /* outline: 1px solid #ccc; */
 }
@@ -88,7 +93,7 @@ body {
     color: #ffffff;
     display: block;
     padding: 10px;
- }
+}
 
 /* footer */
 #main-footer {
@@ -99,32 +104,39 @@ body {
     color: rgba(153, 153, 153, 1);
     border-top: 0.5px solid #999;
 }
+
 #main-footer .sns-menu {
     padding-bottom: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 #main-footer .sns-menu a {
     color: #999999;
     margin-right: 20px;
     font-size: 20px;
 }
+
 #main-footer .sns-menu a:last-child {
     margin-right: 0px;
     font-size: 23px;
 }
+
 #main-footer .footer-menu {
     margin-bottom: 10px;
 }
 #main-footer .footer-menu a {
-    color: rgba(153, 153, 153, 1);
-    font-weight: 700;
+    color: #666;
+    font-weight: 500;
 }
+
 #main-footer p {
     font-weight: 400;
     line-height: 14px;
+    color: #666;
 }
+
 #main-footer .copy {
     margin-top: 15px;
 }
@@ -166,14 +178,13 @@ body {
     width: 100%;
 }
 
-
-
 /* #home .main-banner */
 #home .j_main-banner {
     width: 100%;
     /* outline: 2px solid #333; */
     padding-bottom: 20px;
 }
+
 #home .j_main-banner a {
     width: 100%;
     height: 100%;
@@ -194,26 +205,21 @@ body {
     justify-content: center;
     align-items: flex-start;
 }
+
 #home .swiper .swiper-wrapper {
     width: 100%;
     /* height: 240px; */
-    
-}
 
+}
 
 #home .swiper-pagination {
     display: flex;
-    bottom: 0;
-    justify-content: center;
-}
-
-.swiper-pagination {
-    display: flex;
-    bottom: 20px;
+    top: 230px;
     justify-content: center;
     /* background: #ccc; */
 
 }
+
 .swiper .swiper-pagination-bullet-active {
     background: var(--main-color);
 }
@@ -227,11 +233,13 @@ body {
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
 #home .j_category-menu img {
     width: 56px;
     height: 56px;
     /* outline: 1px solid red; */
 }
+
 #home .j_category-menu .j_col {
     width: 70px;
     height: 70px;
@@ -241,21 +249,25 @@ body {
     align-items: center;
     justify-content: center;
 }
+
 #home .j_category-menu li {
     display: block;
     float: left;
     text-align: center;
     margin-right: 20px;
 }
+
 #home .j_category-menu li:last-child {
     margin-right: 0px;
-} 
+}
+
 #home .j_category-menu a {
     /* outline: 1px solid #000000; */
-    color: #000000;   
+    color: #000000;
     font-weight: 400;
     line-height: 17px;
 }
+
 /* #home .j_recommand */
 #home .j_recommand h2 {
     font-weight: 400;
@@ -263,18 +275,21 @@ body {
     line-height: 23px;
     margin-left: 20px;
     margin-bottom: 20px;
-    
+
 }
+
 #home .j_recommand h2 strong {
     font-weight: 700;
 }
+
 #home .j_recommand {
     width: 100%;
     /* background: #999; */
     /* outline: 1px solid #000000; */
     padding-bottom: 20px;
 }
-#home .j_recommand .j_rcontainer { 
+
+#home .j_recommand .j_rcontainer {
     display: flex;
     flex-wrap: nowrap;
     gap: 20px;
@@ -283,28 +298,32 @@ body {
     padding-right: 20px;
     padding-bottom: 20px;
 }
+
 .j_recommand .j_col {
     width: calc(30%-20px);
     height: 235px;
     /* border: 1px solid #999; */
     /* background-color: #ccc; */
     float: left;
-    
+
 }
+
 .j_recommand a {
     width: 100%;
     height: 100%;
     outline: 0.3px solid #999;
     display: block;
     white-space: nowrap;
-    background: #ccc;
+    /* background: #ccc; */
     margin-top: 2px;
 }
+
 .j_recommand img {
     width: 100%;
     height: 70%;
     object-fit: cover;
 }
+
 ::-webkit-scrollbar {
     display: none;
 }
@@ -319,24 +338,30 @@ body {
     padding-left: 9px;
     padding-bottom: 5px;
 }
+
 .j_recommand .bg-gn {
     background-color: #19AD09;
 }
+
 .j_recommand .bg-bl {
     background-color: #000000;
 }
+
 .j_recommand .bg-yel {
     background-color: #F5D82A;
     color: #333;
 }
+
 .j_text .green {
     color: #19FF00;
     font-size: 12px;
 }
+
 .j_text .blue {
     color: #00D1FF;
     font-size: 12px;
 }
+
 .j_text .yellow {
     color: #000000;
     font-size: 12px;
@@ -349,69 +374,84 @@ body {
     margin-bottom: 20px;
     /* background: #ccc; */
 }
+
 #home .j_post-banner img {
     width: 100%;
 }
+
 /* j_dailySale */
 #home .j_dailySale {
     padding: 20px;
     /* background-color: #ccc; */
 }
+
 .j_dailySale img {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: -6px;
 }
+
 .j_dailySale h2 {
     font-size: 16px;
     font-weight: 400;
 }
+
 .j_sale-title span {
     font-size: 12px;
     color: #999;
 }
-.j_dailySale p { 
+
+.j_dailySale p {
     font-weight: 400;
 }
+
 .j_dailySale a {
     color: #000000;
 }
+
 .j_sale-title {
     display: block;
     float: left;
 }
+
 /* .j_sale-banner a {
     background: blue;    
 } */
 .j_sale-banner h4 {
     font-size: 12px;
 }
+
 .j_sale-banner span {
     color: #999;
     /* padding-left: 60px; */
     font-size: 10px;
 }
+
 .j_sale-banner strong {
     font-weight: 700;
     font-size: 14px;
     color: #19AD09;
     margin-left: 5px;
 }
+
 .j_sale-banner .sale-title {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-right: 5px;
 }
+
 .j_call-banner {
     margin-top: 20px;
     margin-bottom: 50px;
     /* background: #ccc; */
 }
+
 .j_call-banner img {
     width: 100%;
 }
+
 .indicator {
     position: absolute;
     z-index: 99;
@@ -500,12 +540,13 @@ body {
     border-style: none;
     margin-right: 20px;
 }
+
 .category {
     font-size: 20px;
     font-weight: 700;
 }
 
-.title {
+.k-detail .title {
     font-size: 18px;
     font-weight: 300;
     margin-left: 10px;
@@ -518,27 +559,29 @@ body {
     align-items: center;
 }
 
-.price {
+.k-detail .price {
     font-size: 12px;
     font-weight: 700;
     color: red;
     margin-left: 15px;
-    margin-top: 10px;
+    margin-top: 5px;
+    display: inline;
 }
 
-.sale {
+.k-detail .sale {
     font-size: 10px;
     font-weight: 300;
     margin-left: 10px;
-    margin-top: 5px;
+    margin-top: 8px;
+    display: inline;
 }
 
-.product-name {
+.k-detail .product-name {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-left: 10px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 
 .refurb {
@@ -556,6 +599,7 @@ body {
     font-weight: 400;
     font-size: 12px;
 }
+
 .swiper {
     width: 100%;
     height: 100%;
@@ -579,8 +623,8 @@ body {
 
 .swiper-slide img {
     display: block;
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
     object-fit: fill;
 }
 
@@ -599,7 +643,8 @@ body {
 }
 
 #product-detail .c-modal.on {
-    transform: translatey(0%);
+    transform: translateY(0%);
+
 }
 
 #product-detail .c-modal .c-modalText {
@@ -608,7 +653,6 @@ body {
     align-items: center;
     flex-direction: column;
     text-align: center;
- 
 }
 
 
@@ -617,7 +661,7 @@ body {
     font-weight: 500;
     padding-top: 87px;
 
-    
+
 }
 
 #product-detail .c-modal button {
@@ -706,7 +750,7 @@ body {
     /* background: #ccc; */
 }
 
-#login .k-loginBar { 
+#login .k-loginBar {
     width: 100%;
     height: 40px;
     background-color: #000;
@@ -714,14 +758,14 @@ body {
 
 
 #login .k-loginBar p {
-color: #fff;
-font-size: 14px;
-font-weight: 500;
-text-align: center;
-padding-top: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 10px;
 }
 
-#login .k-loginTitle { 
+#login .k-loginTitle {
     height: 567px;
     /* background: rgb(255, 210, 210); */
     font-size: 20px;
@@ -742,13 +786,13 @@ padding-top: 10px;
     /* outline: 1px solid red; */
 }
 
-#login .k-loginBtn img { 
+#login .k-loginBtn img {
     padding-right: 5px;
 
 }
 
 
-#login .k-loginBtn a { 
+#login .k-loginBtn a {
     width: 320px;
     height: 45px;
     border-radius: 5px;
@@ -762,21 +806,21 @@ padding-top: 10px;
 }
 
 
-#login .k-loginBtn .k-kakao { 
-    background-color:#F5E04D ;
+#login .k-loginBtn .k-kakao {
+    background-color: #F5E04D;
     color: #2F2121;
 }
 
 #login .k-loginBtn .k-naver {
-    background-color:#5FB035 ;
+    background-color: #5FB035;
 }
 
 #login .k-loginBtn .k-facebook {
-    background-color:#3A77E8 ;
+    background-color: #3A77E8;
 }
 
 #login .k-loginBtn .k-google {
-    background-color:#000 ;
+    background-color: #000;
     margin-bottom: 0px;
 }
 
@@ -788,14 +832,14 @@ padding-top: 10px;
 #login .k-login a {
     font-size: 14px;
     display: flex;
-    justify-content: center;    
+    justify-content: center;
 }
 
 #login .k-nomember {
     padding-bottom: 30px;
 }
 
-#login .k-nomember a { 
+#login .k-nomember a {
     font-size: 14px;
     color: #666;
     display: flex;
@@ -810,7 +854,7 @@ padding-top: 10px;
 
 /* 장바구니 */
 
-#cart .k-cart { 
+#cart .k-cart {
     height: 567px;
     display: flex;
     flex-direction: column;
@@ -826,7 +870,7 @@ padding-top: 10px;
     background-color: #000;
 }
 
-#cart .k-cartBar { 
+#cart .k-cartBar {
     color: #fff;
     font-size: 14px;
     font-weight: 500;
@@ -834,7 +878,7 @@ padding-top: 10px;
     padding-top: 10px;
 }
 
-#cart .k-cart p { 
+#cart .k-cart p {
     color: #ccc;
     font-size: 16px;
     font-weight: 700;
@@ -842,7 +886,7 @@ padding-top: 10px;
 
 }
 
-#cart .k-cart a { 
+#cart .k-cart a {
     width: 174px;
     height: 44px;
     background: #999;
@@ -867,50 +911,50 @@ padding-top: 10px;
     text-align: center;
 }
 
-.k-CI h1 { 
+.k-CI h1 {
     font-size: 30px;
     padding-bottom: 10px;
 }
 
-.k-CI p { 
+.k-CI p {
     font-size: 12px;
     padding-bottom: 60px;
 }
 
-.k-logoDetail p { 
+.k-logoDetail p {
     padding-top: 20px;
 }
 
-.k-logocolorType  {
+.k-logocolorType {
     width: 330px;
     height: 330px;
     background: #EAEAEA;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
 }
 
-.k-logocolorType h2 { 
+.k-logocolorType h2 {
     font-size: 24px;
     padding-top: 30px;
     padding-bottom: 20px;
 }
 
-.k-logocolorType img { 
+.k-logocolorType img {
     padding-bottom: 20px;
 }
 
-.k-logoColor h1 { 
+.k-logoColor h1 {
     padding-top: 60px;
     padding-bottom: 20px;
 }
 
 
-.k-colorChip { 
+.k-colorChip {
     display: grid;
     grid-template-columns: auto auto;
     gap: 20px;
 }
 
-.k-colorChip .colorBox { 
+.k-colorChip .colorBox {
     width: 107px;
     height: 138px;
     outline: 1px solid #ccc;
@@ -918,32 +962,32 @@ padding-top: 10px;
     text-align: left;
 }
 
-.k-colorChip .colorBox span { 
-   display: block;
-   padding-left: 5px;
-   padding-top: 9px;
-   font-weight: 500;
+.k-colorChip .colorBox span {
+    display: block;
+    padding-left: 5px;
+    padding-top: 9px;
+    font-weight: 500;
 }
 
 
 
 
-.k-colorChip .colorBox div { 
+.k-colorChip .colorBox div {
     width: 107px;
     height: 107px;
     background: #16E200;
     border-bottom: 1px solid #ccc;
 }
 
-.k-colorChip .colorBox:nth-child(2) > div { 
+.k-colorChip .colorBox:nth-child(2)>div {
     background: #19AD09;
 }
 
-.k-colorChip .colorBox:nth-child(3) > div { 
+.k-colorChip .colorBox:nth-child(3)>div {
     background: #FFF;
 }
 
-.k-colorChip .colorBox:nth-child(4) > div { 
+.k-colorChip .colorBox:nth-child(4)>div {
     background: #000;
 }
 
@@ -961,6 +1005,7 @@ padding-top: 10px;
     background-repeat: no-repeat;
     min-height: 700px;
 }
+
 #about main img {
     width: 100%;
     height: 100%;
@@ -969,6 +1014,7 @@ padding-top: 10px;
     align-items: center;
     justify-content: center;
 }
+
 #about main p {
     font-weight: 500;
     font-size: 14px;
@@ -993,8 +1039,7 @@ padding-top: 10px;
 } */
 
 
-#k-menuContainer { 
-
+#k-menuContainer {
     background: #000;
     width: 100%;
     height: 100vh;
@@ -1004,78 +1049,77 @@ padding-top: 10px;
     background-size: contain;
     background-repeat: no-repeat;
     position: fixed;
-    top: 0; 
+    top: 0;
     transform: translateX(100%);
     transition-duration: 0.4s;
     z-index: 999;
     /* display: none; */
     max-width: 500px;
     margin: 0 auto;
+}
 
-  }
-  
-  #k-menuContainer.on {
+#k-menuContainer.on {
     transform: translateX(0%);
-  }
-  
-  
-  .k-closeBtn  { 
+}
+
+
+.k-closeBtn {
     border: none;
     background-color: transparent;
     position: relative;
     top: 20px;
     left: 20px;
-  }
-  
-  
-  .k-closeBtn i {
-   font-size: 24px;
-   color: #fff; 
-  }
-  
-  
-  
-  .k-searchBox {
+}
+
+
+.k-closeBtn i {
+    font-size: 24px;
+    color: #fff;
+}
+
+
+
+.k-searchBox {
     display: flex;
     justify-content: space-between;
     align-content: center;
     margin-left: 30px;
     position: relative;
     top: 40px;
-  }
-  
-  
-  
-  .k-searchBox .k-input { 
+}
+
+
+
+.k-searchBox .k-input {
     width: 100%;
     height: 38px;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 5px;
     padding-left: 20px;
     border: none;
-  }
-  
-  .k-searchBox button { 
+}
+
+.k-searchBox button {
     background-color: transparent;
     color: #fff;
     padding: 6px 10px;
     position: relative;
     right: 10%;
     border: none;
-  }
-  
-  .k-searchBox i { 
-    color : #fff;
-  }
-  
-  
-  #k-menuContainer .k-gnb { 
+}
+
+.k-searchBox i {
+    color: #fff;
+}
+
+
+#k-menuContainer .k-gnb {
     position: relative;
     top: 100px;
-  }
-  
-  
-  #k-menuContainer .k-gnb li a { 
+}
+
+
+#k-menuContainer .k-gnb li a {
     color: #fff;
     display: block;
     width: 100%;
@@ -1085,6 +1129,4 @@ padding-top: 10px;
     padding: 10px 50px 10px 0px;
     font-size: 16px;
     font-weight: 500;
-  }
-
-
+}
