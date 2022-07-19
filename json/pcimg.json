@@ -2,7 +2,7 @@
   {
     "image": ["images/monitor1.webp", "images/monitor2.webp", "images/monitor3.webp"],
     "brand": "MONITOR",
-    "product": "삼성전자 오디세이 G5 C27G54T",
+    "product": "리퍼마켓 게이밍 표준 삼성전자 오디세이 G5 C27G54T",
     "refurb": "S급리퍼",
     "sale": "332,990원",
     "price": "302,990원",
@@ -17,7 +17,7 @@
   {
     "image": ["images/monitor2.webp", "images/monitor3.webp", "images/monitor1.webp"],
     "brand": "MONITOR",
-    "product": "삼성전자 F27T350",
+    "product": "리퍼마켓 게이밍 표준 모니터 삼성전자 F27T350",
     "refurb": "S급리퍼",
     "sale": "199,000원",
     "price": "169,000원",
@@ -47,7 +47,7 @@
 	{
     "image": ["images/desktop1.webp", "images/desktop2.webp", "images/desktop3.webp"],
     "brand": "DESKTOP",
-    "product": "표준PC 게임용 220616",
+    "product": "리퍼마켓 게이밍 표준데스크탑 SHOP 게임용 220616",
     "refurb": "S급리퍼",
     "sale": "1,153,120원",
     "price": "1,053,120원",
@@ -62,7 +62,7 @@
   {
     "image": ["images/desktop2.webp", "images/desktop3.webp", "images/desktop1.webp"],
     "brand": "DESKTOP",
-    "product": "표준PC 게임용 211009",
+    "product": "리퍼마켓 게이밍 표준데스크탑 SHOP 게임용 211009",
     "refurb": "S급리퍼",
     "sale": "482,120원",
     "price": "432,120원",
@@ -77,7 +77,7 @@
   {
     "image": ["images/desktop3.webp", "images/desktop1.webp", "images/desktop2.webp"],
     "brand": "DESKTOP",
-    "product": "게이밍 SHOP 19",
+    "product": "리퍼마켓 게이밍 표준데스크탑 SHOP 19397590",
     "refurb": "A급리퍼",
     "sale": "1,118,500원",
     "price": "1,038,500원",
@@ -92,7 +92,7 @@
   {
     "image": ["images/mouse1.webp", "images/mouse2.webp", "images/mouse3.webp"],
     "brand": "LOGITEC",
-    "product": "로지텍 G102 LIGHTSYNC",
+    "product": "리퍼마켓 게이밍 표준 로지텍 G102 LIGHTSYNC",
     "refurb": "A급리퍼",
     "sale": "23,970원",
     "price": "18,970원",
@@ -107,7 +107,7 @@
   {
     "image": ["images/mouse2.webp", "images/mouse3.webp", "images/mouse1.webp"],
     "brand": "LOGITEC",
-    "product": "로지텍 G304 LIGHTSPEED WIRELESS",
+    "product": "리퍼마켓 게이밍 표준 로지텍 G304 LIGHTSPEED WIRELESS",
     "refurb": "S급리퍼",
     "sale": "49,900원",
     "price": "39,900원",
@@ -122,7 +122,7 @@
   {
     "image": ["images/mouse3.webp", "images/mouse1.webp", "images/mouse2.webp"],
     "brand": "LOGITEC",
-    "product": "로지텍 MX Master 3S",
+    "product": "리퍼마켓 게이밍 표준 로지텍 MX Master 3S",
     "refurb": "S급리퍼",
     "sale": "139,000원",
     "price": "119,000원",
