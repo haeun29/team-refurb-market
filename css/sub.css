@@ -58,7 +58,6 @@
 
 #products .product .info .price {
   font-weight: 700;
-  font-size: 14px;
 }
 
 #products .product {
@@ -90,7 +89,7 @@
   min-height: 30px;
   /* filter: contrast(80%);
   filter: brightness(95%); */
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .img-cover{
@@ -129,7 +128,7 @@
 #products .product .info .price {
   font-weight: 700;
   font-size: 12px;
-  color: black;
+
 
 }
 

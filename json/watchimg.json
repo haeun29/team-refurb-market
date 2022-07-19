@@ -1,6 +1,6 @@
 [
   {
-    "image": ["images/swatch1.png", "images/swatch2.png", "images/swatch3.png"],
+    "image": ["images/swatch1.webp", "images/swatch2.webp", "images/swatch3.jpeg"],
     "brand": "SAMSUNG",
     "product": "삼성전자 갤럭시탭S8 Wi-Fi 128GB",
     "refurb": "S급리퍼",
@@ -15,7 +15,7 @@
     "as": "6개월"
   },
   {
-    "image": ["images/swatch2.png", "images/swatch3.png", "images/swatch1.png"],
+    "image": ["images/swatch2.webp", "images/swatch3.jpeg", "images/swatch1.webp"],
     "brand": "SAMSUNG",
     "product": "삼성전자 갤럭시탭S7 FE Wi-Fi 128GB",
     "refurb": "S급리퍼",
@@ -30,7 +30,7 @@
     "as": "6개월"
   },
   {
-    "image": ["images/swatch3.png", "images/swatch1.png", "images/swatch2.png"],
+    "image": ["images/swatch3.jpeg", "images/swatch1.webp", "images/swatch2.webp"],
     "brand": "SAMSUNG",
     "product": "삼성전자 갤럭시탭S8 플러스 Wi-Fi 128GB",
     "refurb": "S급리퍼",
@@ -45,7 +45,7 @@
     "as": "6개월"
   },
   {
-    "image": ["images/awatch1.png", "images/awatch2.png", "images/awatch3.png"],
+    "image": ["images/awatch1.webp", "images/awatch2.webp", "images/awatch3.webp"],
     "brand": "APPLE",
     "product": "APPLE 워치 SE 나이키+ 44mm 스페이스 그레이 알루미늄",
     "refurb": "S급리퍼",
@@ -60,7 +60,7 @@
     "as": "6개월"
   },
   {
-    "image": ["images/awatch2.png", "images/awatch3.png", "images/awatch1.png"],
+    "image": ["images/awatch2.webp", "images/awatch3.webp", "images/awatch1.webp"],
     "brand": "APPLE",
     "product": "APPLE 워치 SE 40mm 스페이스 그레이 알루미늄",
     "refurb": "S급리퍼",
@@ -75,7 +75,7 @@
     "as": "6개월"
   },
   {
-    "image": ["images/awatch3.png", "images/awatch1.png", "images/awatch2.png"],
+    "image": ["images/awatch3.webp", "images/awatch1.webp", "images/awatch2.webp"],
     "brand": "APPLE",
     "product": "APPLE 워치 시리즈7 45mm 미드나이트 알루미늄",
     "refurb": "S급리퍼",

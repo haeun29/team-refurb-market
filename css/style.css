@@ -165,19 +165,26 @@ body {
 #home main {
     width: 100%;
 }
+
+
+
 /* #home .main-banner */
-.j_main-banner {
+#home .j_main-banner {
     width: 100%;
-    height: 240px;
     /* outline: 2px solid #333; */
+    padding-bottom: 20px;
 }
 #home .j_main-banner a {
     width: 100%;
-    height: 222px;
+    height: 100%;
+    /* outline: 3px solid blue; */
+    overflow: hidden;
 }
+
 #home .j_main-banner a img {
     width: 100%;
     height: 100%;
+    object-fit: fill;
 }
 
 /* 슬라이더 와꾸 규격 */
@@ -189,29 +196,17 @@ body {
 }
 #home .swiper .swiper-wrapper {
     width: 100%;
-    height: 240px;
+    /* height: 240px; */
     
 }
-#home .j_main-banner a {
-    width: 100%;
-    height: 222px;
-    /* outline: 3px solid blue; */
-    overflow: hidden;
-}
 
-#home .j_main-banner a img {
-    width: 100%;
-    height: 100%;
-    object-fit: fit;
-}
 
 #home .swiper-pagination {
     display: flex;
-    top: 230px;
+    bottom: 0;
     justify-content: center;
-    /* background: #ccc; */
-
 }
+
 .swiper-pagination {
     display: flex;
     bottom: 20px;
@@ -299,7 +294,7 @@ body {
 .j_recommand a {
     width: 100%;
     height: 100%;
-    outline: 1px solid #999;
+    outline: 0.3px solid #999;
     display: block;
     white-space: nowrap;
     background: #ccc;
@@ -451,7 +446,7 @@ body {
 
 
 .c-db img {
-    width: 375px;
+    width: 100%;
 }
 
 .c-detail ul {
@@ -695,7 +690,7 @@ body {
     border: none;
     font-size: 17px;
     position: absolute;
-    right: 30px;
+    right: 20px;
     top: 20px;
 }
 
