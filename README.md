@@ -5,7 +5,7 @@
 
 https://haeun29.github.io/team-refurb-market/  
 
-#### ⛔ 모바일 버전으로 보시는것을 권장드립니다. ⛔
+#### ⛔ 모바일로 보시는것을 권장드립니다. ⛔
 
 ## 대표사진
 ![RefurbMarketImage](https://user-images.githubusercontent.com/105402303/185275487-3882ae95-7028-40a3-b8fd-e352b1d1940c.png)
