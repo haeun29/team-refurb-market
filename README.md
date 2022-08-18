@@ -25,7 +25,6 @@ https://haeun29.github.io/team-refurb-market/
 ![image](https://user-images.githubusercontent.com/105402303/185278993-7440d5fd-8d4e-42b9-92f9-2edf3b4a9ff5.png)
 
 
-
 ### 3️⃣ POPUP 
 : 장바구니추가, 바로구매 클릭시 상단에서 떨어지는 팝업창 구현
 
