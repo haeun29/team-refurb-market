@@ -13,13 +13,13 @@ https://haeun29.github.io/team-refurb-market/
 # 상세소개 
 
 ### 1️⃣ Swiper &  Javascript
-: 메인홈 배너의 광고 구현 
+: 메인홈 배너 Autoplay 광고 구현 
 
 ![image](https://user-images.githubusercontent.com/105402303/185279087-c7ce3fd5-9cae-45d3-9a0d-6966a6d6fbff.png)
 
 
 ### 2️⃣ JSON 
-: 제품과 상세페이지로 이동시 원하는 브랜드의 상품을 볼수 있음 
+: 제품과 상세페이지로 이동시 원하는 브랜드의 상품을 볼 수 있음
 
 ![image](https://user-images.githubusercontent.com/105402303/185278966-a37a96dd-6007-43f2-8ad6-2afa5a542af0.png)
 ![image](https://user-images.githubusercontent.com/105402303/185278993-7440d5fd-8d4e-42b9-92f9-2edf3b4a9ff5.png)
