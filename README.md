@@ -15,23 +15,26 @@ https://haeun29.github.io/team-refurb-market/
 ### 1️⃣ Swiper &  Javascript
 : 메인홈 배너 Autoplay 광고 구현 
 
-![image](https://user-images.githubusercontent.com/105402303/185279087-c7ce3fd5-9cae-45d3-9a0d-6966a6d6fbff.png)
 ![KakaoTalk_20220818_141919156](https://user-images.githubusercontent.com/105402303/185300047-29793725-2bcd-4035-ac26-e3a369dab1ec.gif)
+
+![image](https://user-images.githubusercontent.com/105402303/185279087-c7ce3fd5-9cae-45d3-9a0d-6966a6d6fbff.png)
 
 
 
 ### 2️⃣ JSON 
 : 제품과 상세페이지로 이동시 원하는 브랜드의 상품을 볼 수 있음
 
-![image](https://user-images.githubusercontent.com/105402303/185278966-a37a96dd-6007-43f2-8ad6-2afa5a542af0.png)
+
 ![KakaoTalk_20220818_141919156_01](https://user-images.githubusercontent.com/105402303/185300053-9be3d6c4-24d2-4e93-bb49-a3bf03765da2.gif)
+![image](https://user-images.githubusercontent.com/105402303/185278966-a37a96dd-6007-43f2-8ad6-2afa5a542af0.png)
 
 
 ### 3️⃣ POPUP 
 : 장바구니추가, 바로구매 클릭시 상단에서 떨어지는 팝업창 구현
 
-![image](https://user-images.githubusercontent.com/105402303/185279137-a0af9e49-ff24-4a8b-bab1-4edc150ac6bb.png)
+
 ![KakaoTalk_20220818_141919156_02](https://user-images.githubusercontent.com/105402303/185300057-71f45330-8a51-4785-ba55-5c7f2c5e01cd.gif)
+![image](https://user-images.githubusercontent.com/105402303/185279137-a0af9e49-ff24-4a8b-bab1-4edc150ac6bb.png)
 
 
 # 사용 라이브러리 
