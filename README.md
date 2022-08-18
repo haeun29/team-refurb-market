@@ -39,7 +39,7 @@ https://haeun29.github.io/team-refurb-market/
 
 ✅ Swiper
 
-✅JSON
+✅ JSON
 
 
 
